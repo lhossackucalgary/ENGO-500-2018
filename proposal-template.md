@@ -66,3 +66,54 @@ Name | John Doe
 **Responsibilities** | Do what project manager does
 **Key Skills** | Key skills of a project manager
 
+## Project  Management and Control
+> Describe mechanisms in place to ensure effective management and control of the proposed project.
+
+## Project Implementation Plan
+> Include a thorough project implementation plan, and clearly indicate the following elements:
+
+> Project phases with well-defined activities or tasks for each stage and calendar-based schedule
+> Project control and tracking methods 
+> Communication and feedback mechanisms
+> Milestones and deliverables (below)
+
+> The project should be divided into phases, with a series of milestones at critical points in the work. Each milestone should be qualified with associated tasks to be completed. Deliverables are to be linked to these milestones. 
+
+> Complete the table below. The schedule of work is left to the discretion of the project proponent. 
+
+> •	Column 1 “WBS” – identifies a number for each task and sub-task and milestones. 
+> •	Column 2 “Task and work breakdown” – describes each task and sub-task and milestone. Sub-tasks must be defined to a maximum of ten days. As a guideline, it is advisable to provide a breakdown / detail on any activity with a total effort of more than 10 days
+> •	Column 3 “Duration (days)”is the total length of time in working days that the activity will take.
+> •	Column 4 “Organization” – indicates the name of the organization responsible for the task. 
+> •	Column 5 “Team Members Name” – identifies the actual personnel assigned to carry out the described task. 
+> •	Column 6 “Days effort/person” – indicates the level of work effort in days for each team member. 
+> •	Column 7 “Outputs” – indicates all the outputs to be delivered at the milestone. 
+> •	Column 8 “Start Date” – indicates the date at which the first activity begins.
+> •	Column 9 “Delivery Date” – indicates the date for delivery of the final deliverable of a particular milestone. 
+
+WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
+**1** | **Initiation Phase** | **14** |** ** |  **20xx-xx-xx** | ** **
+1.1 | Kick-off meeting, including preperation | 2 | Meeting minutes document on GitHub | 2014-03-14 | 
+1.2 | some tasks here | 5 |  | 20xx-xx-xx | 
+1.3 | some taks here | 5 |  | 20xx-xx-xx | 
+**2** | **Phase 2** | **15** |** ** |  **20xx-xx-xx** | ** **
+2.1 | some tasks here | 5 |  | 20xx-xx-xx | 
+2.2 | some tasks here | 5 |  | 20xx-xx-xx | 
+**3** | **Phase 3** | **20** |** ** |  **20xx-xx-xx** | ** **
+3.1 | some tasks here | 10 |  | 20xx-xx-xx | 
+3.2 | some tasks here | 5 |  | 20xx-xx-xx | 
+
+## Budget Summary
+> Briefly describe the budget required for this project. Itemize and justify the expenses.
+
+## Communications Plan and Accessibility of Project Results
+> Describe how you will share and disseminate results of your project amongst your organization, the collaborating organizations as well and clients/users (i.e., presentations, post on the web, conferences, demonstrations, press releases etc.).
+
+# Benefits
+## Benefits to Canadians 
+## Benefits to Sponsors and Users
+
+
+
+

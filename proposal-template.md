@@ -9,6 +9,8 @@ RouteScouts is an organization of four members: Lucas Hossack, Deanna Wing Yan I
 
 > Describe your organization including its mandate and vision, current products and/or services, and priorities and/or factors that influence your business. Describe the use of geomatics within your organization, including technologies and data.
 ## Project Sponsor Profile
+SensorUp is an award winning IoT company and leader in IoT interoperability. They create industrial grade IoT solutions leveraging their SensorThings Platform for customers. SensorUp empowers innovators to develop their IoT apps quickly and easily, all in accordance with the  Open Geospatial Consortium (OGC) standards. 
+
 > Describe collaborating organizations including their mandate and vision, current products and/or services, and priorities and/or factors that influence their business. If organizations should be collaborating and are not, explain why.
 ## Client/user Profile
 > Describe the needs of the clients/users and how they will benefit from the results of this project. Describe what they do and how they will be impacted by the results and how it may influence their future business direction. Describe how clients/users will be engaged in the project.

@@ -3,6 +3,10 @@
 ## Project Description
 > Provide a short narrative description of the project.  Identify/describe any technical and business problem that would be solved, the key benefits and how the project aligns with/supports the strategic direction/objectives of the proponent organization or members, its collaborators, and clients/users.
 ## Proponent Profile
+
+RouteScouts is an organization of four members: Lucas Hossack, Deanna Wing Yan Ip, Shuet-Ching Christina Lo, and Joan Ching Kwan Tam. We are aiming to create a product over the next 8 months that will help us to reach our main vision of winning the Capstone Fair. We will do this by creating a streamlined UI and incorporating Augmented Reality into our project. This will ensure that the project has real life applications while using a professional design. The motivation behind this project is our interest in IoT sensors and data, as well as programming. By combining the two, we have created this project idea of visualizing sensor data on a map while efficiently routing maintenance crews using algorithms.
+
+
 > Describe your organization including its mandate and vision, current products and/or services, and priorities and/or factors that influence your business. Describe the use of geomatics within your organization, including technologies and data.
 ## Project Sponsor Profile
 > Describe collaborating organizations including their mandate and vision, current products and/or services, and priorities and/or factors that influence their business. If organizations should be collaborating and are not, explain why.

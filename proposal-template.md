@@ -2,6 +2,13 @@
 ## Project Name
 ## Project Description
 
+Technology today is inevitably moving towards partial and total automation. Whether it'd be in factories or home delivery services, more robots designed for task automation are entering the market, each bringing their own complexities and design specifications. However robots have their limitations and they cannot fix themselves or each other. Other issues include:
+- Training maintenance crews to learn how to maintain new robots as well as retain the knowledge of technical specifications of every current robot within a company is difficult and strenuous. 
+- Expensive to hire specific technicians for every type of robot.
+- Warehouses can be the size of twenty eight football fields, therefore it is hard to track down the location of each malfunctioning robots, especially those that are mobile. 
+- In fast-paced environments, downtime of task automation robots immediately result in loss of revenue.
+This is why we propose to create a software that will reduce downtime and improve service technician efficiency through an Integrated Operation Center (IOC). This IOC will contain a dispatch system that finds the nearest qualified worker to service a malfunctioning robot and an intuitive Augmented Reality (AR) system to empower service crews to repair robots more efficiently and safely.
+
 > Provide a short narrative description of the project.  Identify/describe any technical and business problem that would be solved, the key benefits and how the project aligns with/supports the strategic direction/objectives of the proponent organization or members, its collaborators, and clients/users.
 
 ## Proponent Profile

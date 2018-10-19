@@ -23,6 +23,12 @@ SensorUp is an award winning IoT company and leader in IoT interoperability. The
 
 # Project Performance Framework
 ## Objectives, outputs, outcomes and criteria
+Objectives: Monitor and collect status of internet-connected robots over time. Provide failure, critical and historic information of individual robots to maintenance crews during repairs. Provide relevant information to managers and maintenance crews.
+
+This project provides interfaces for two user groups involved in the maintenance and repair of geographically distributed robots which are monitored by internet-connected sensors. The first interface, the IOC allows a dispatcher to visualize the location, status and relevant statistics of the robots and maintenance crews through a web-based interface. Additionally, this interface will provide a means to push notifications and itinerary items to various maintenance crews. The second interface is accessible on a maintenance worker's cellular device. It provides the maintenance crew with information regarding which robot should be repaired next and historic data regarding this robot to aid in diagnosing issues and performing repairs. Additionally the maintenance crew's interface will contain a smartphone based augmented reality interface which provides information overlaid over the robot to aid in repairs. 
+
+The use of this system will reduce maintenance costs and downtime for robots. This will result in cost savings for fuel and , from efficient routing. Maintenance teams will be able to perform repairs faster. An additional objective is to create and improve analytics for the fleet of robots.  
+
 > Identify and define project objectives, outputs and outcomes as well as a measurement criteria. 
 > -	Objectives: Define what the project is trying to achieve.
 > -	Outputs: Deliverables and products produced by the project.

@@ -57,6 +57,8 @@ Key targets |
 Reporting on results |
 
 ## Sustainability
+
+
 > Describe plans for maintenance and/or further development of the project outputs.  Demonstrate that the organization sustaining the project results has a structure in place to do so.  
 Describe plans for the maintenance and/or further development of the project outputs for the immediate years following the GeoConnections’ funded project.  Identify as specifically as possible the organization and sector or division that will be responsible for maintaining the results.  
 
@@ -67,6 +69,22 @@ Describe plans for the maintenance and/or further development of the project out
 > Specify any major policy, standards, data, technical, partnership and/or client engagement issues that need to be addressed in order for the project to be successful. 
 
 ## Feasibility and Risk 
+
+-Technical Risk
+-Safety Risk
+-Deadlines
+-Losing people/knowledge
+
+Risk mitigation
+-prototyping
+-evaluate scope frequency
+-insurance
+
+commitment risks, organization risks, contracting risks, technical risks, financial risks, human resources risks (such as the availability of qualified personnel or experienced personnel), project dependencies and/or policy issues related to data access (i.e. licensing, intellectual property, copyright, security, privacy etc). 
+
+
+
+
 > Identify and evaluate potential challenges or risks in completing and/or sustaining the project.  Please fill out the table and add any other applicable risks.  Examples of risks include: commitment risks, organization risks, contracting risks, technical risks, financial risks, human resources risks (such as the availability of qualified personnel or experienced personnel), project dependencies and/or policy issues related to data access (i.e. licensing, intellectual property, copyright, security, privacy etc). 
 
 No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation strategies for dealing with each risk 
@@ -91,6 +109,23 @@ Name | John Doe
 > Describe mechanisms in place to ensure effective management and control of the proposed project.
 
 ## Project Implementation Plan
+
+WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
+**1** | **Initiation Phase** | **21** |** ** |  **2018-10-26** | **2018-11-16**
+1.1 | Task and user identification | 10 | Meeting minutes document on GitHub | 2018-03-14 | 
+1.2 | Low fidelity prototyping | 11 |   | 20xx-xx-xx | 
+1.2.1 | Storyboarding | 3 | Powerpoint and paper | 20xx-xx-xx | 
+1.2.2 | User stories | 3 | Powerpoint and paper | 20xx-xx-xx | 
+**2** | **Minimal Viable Product** | **35** |**have something that can work** |  **2018-11-16** | **2018-12- 21**
+2.1 | High fidelity prototyping | 11 |  | 20xx-xx-xx | 
+2.1.1 | Vertical prototyping | 5 |  | 20xx-xx-xx | 
+2.2 | Learn tools and framework | 14 |  | 20xx-xx-xx | 
+**3** | **Iteration** | **105** |**** |  **2018-12-21** | ** 201-04-05**
+3.1 | continuous testing and development | 10 |  | 20xx-xx-xx | 
+3.2 | until we're done iterating | 5 |  | 20xx-xx-xx | 
+
+
 > Include a thorough project implementation plan, and clearly indicate the following elements:
 
 > Project phases with well-defined activities or tasks for each stage and calendar-based schedule
@@ -126,14 +161,42 @@ WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
 3.2 | some tasks here | 5 |  | 20xx-xx-xx | 
 
 ## Budget Summary
+
 > Briefly describe the budget required for this project. Itemize and justify the expenses.
+-talk to steve about budget, capstone poster ($50-70) 
+-server cost ($0) tyty steve
+-model of robot BB-8? - monitor cute things OMG!!!!!!
+-API
+
 
 ## Communications Plan and Accessibility of Project Results
 > Describe how you will share and disseminate results of your project amongst your organization, the collaborating organizations as well and clients/users (i.e., presentations, post on the web, conferences, demonstrations, press releases etc.).
 
+-Capstone Fair
+-Presentation
+-Final Report
+
+
 # Benefits
-## Benefits to Canadians 
+## Benefits to Canadians
+
+-less carbon release (less gas, optimizing routes)
+-decreased price in products (indirect)
+-new technology
+-
+
 ## Benefits to Sponsors and Users
+users
+-increased safety
+-diagnose issues quickly
+-time saved
+
+sponsor
+-have fun
+-increase visbility of his API
+
+
+
 
 
 

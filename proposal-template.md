@@ -80,14 +80,42 @@ No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation str
 ## Project Team and Resources
 > Identify the resource name, organization, role and responsibilities of the resource. Note any unique competencies that are required to deliver on the project. If the resource name is unknown note this in the resource name field but complete the role, and unique competencies fields. Collaborating organizations resources also need to be included in this table. 
 
-Name | John Doe
+Name | Lucas Hossack
 ------------ | -------------
-**Organization** | Project Team #1
-**Role** | Project Manager
-**Responsibilities** | Do what project manager does
-**Key Skills** | Key skills of a project manager
+**Organization** | RouteScouts
+**Role** | Programming Lead
+**Responsibilities** | High level architecture design
+**Key Skills** | Programming, algorithms, debugging
 
-## Project  Management and Control
+Name | Deanna Wing Yan Ip
+------------ | -------------
+**Organization** | RouteScouts
+**Role** | Project Manager
+**Responsibilities** | Manage deadlines, ensure deliverables are met
+**Key Skills** | Communication, leadership, management
+
+Name | Shuet-Ching Christina Lo
+------------ | -------------
+**Organization** | RouteScouts
+**Role** | UX Designer
+**Responsibilities** | Ensure functionality of UI meets the end user's specifications
+**Key Skills** | Programming, design, databases
+
+Name | Joan Ching Kwan Tam
+------------ | -------------
+**Organization** | RouteScouts
+**Role** | QA Lead
+**Responsibilities** | Test changes to the code
+**Key Skills** | Writing tests, testing tests, running tests
+
+Name | Steve Liang
+------------ | -------------
+**Organization** | SensorUp
+**Role** | Supervisor/Professional Advisor
+**Responsibilities** | Providing advice when needed
+**Key Skills** | Ideas, professional consultation, advising
+
+## Project Management and Control
 > Describe mechanisms in place to ensure effective management and control of the proposed project.
 
 ## Project Implementation Plan

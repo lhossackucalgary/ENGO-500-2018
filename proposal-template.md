@@ -204,12 +204,12 @@ WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
 
 
 ## Communications Plan and Accessibility of Project Results
+
+Communication on the progress of the project between our organization, collaborating organizations, and clients/users will be done during major milestones throughout the next 6-7 months. These milestones include the mid-semester progress report presentations/reports, the final presentation/reports, as well as the Capstone Fair. In the progress reports we will be showing the work that we have done up to that point, where we are in the context of our project implementation plan, and future work to be done. The presentations for these progress reports will be presented in front of a spokesperson with our collaborating organization SensorUp and project advisor, Steve Liang. The final report will contain in-depth details on our completed project and we will be presenting our completed project both in the final presentation and at the Capstone Fair. In the final presentations, we will again be presenting in front of Dr.Liang. For the Capstone Fair, we will be showing the final project results to our clients and users, as well as prospective clients for the future.
+
+Within our organization and collaborating organizations, we are using messaging applications in order to share and disseminate results. For example we have kept in constant communication with Dr.Liang using Slack. With Slack, we are sharing the progress we have made in our research and project on a nearly weekly basis through messages. As well, we have been using Slack to set up  physical or video meetings with Dr. Liang to have him check upon our progress and see if he has any concerns. Internally as RouteScouts, we have been using both Slack and Facebook Messenger to share our individual progress as well as plan meetings with the rest of the organization. For example, in order to approve a pull request on GitHub, we have messaged each other that a change has been made, and to ask other members to review the request. Other members will then know of this pull request and approve if the changes made are acceptable. This method of internal communication will continue to be used throughout this project at a greater frequency as we move into writing code and ensuring there are no project conflicts. 
+
 > Describe how you will share and disseminate results of your project amongst your organization, the collaborating organizations as well and clients/users (i.e., presentations, post on the web, conferences, demonstrations, press releases etc.).
-
--Capstone Fair
--Presentation
--Final Report
-
 
 # Benefits
 ## Benefits to Canadians

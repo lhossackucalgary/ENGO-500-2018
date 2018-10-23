@@ -2,7 +2,10 @@
 ## Project Name
 ## Project Description
 
-Technology today is inevitably moving towards partial and total automation. Whether it'd be in factories or home delivery services, more robots designed for task automation are entering the market, each bringing their own complexities and design specifications. However robots have their limitations and they cannot fix themselves or each other. Other issues include:
+Technology today is inevitably moving towards partial and total automation. Whether it'd be in factories or home delivery services, more robots designed for task automation are entering the market, each bringing their own complexities and design specifications. However robots have their limitations and they cannot fix themselves or each other.
+
+It can become costly to hire specific technicians for every robot type, so by taining maintenance crews to learn how to maintain new robots as well as retain the knowledge of technical specifications of every current robot within a company is difficult and strenuous. 
+
 - Training maintenance crews to learn how to maintain new robots as well as retain the knowledge of technical specifications of every current robot within a company is difficult and strenuous. 
 - Expensive to hire specific technicians for every type of robot.
 - Warehouses can be the size of twenty eight football fields, therefore it is hard to track down the location of each malfunctioning robots, especially those that are mobile. 
@@ -37,6 +40,26 @@ Objectives: Monitor and collect status of internet-connected robots over time. P
 This project provides interfaces for two user groups involved in the maintenance and repair of geographically distributed robots which are monitored by internet-connected sensors. The first interface, the IOC allows a dispatcher to visualize the location, status and relevant statistics of the robots and maintenance crews through a web-based interface. Additionally, this interface will provide a means to push notifications and itinerary items to various maintenance crews. The second interface is accessible on a maintenance worker's cellular device. It provides the maintenance crew with information regarding which robot should be repaired next and historic data regarding this robot to aid in diagnosing issues and performing repairs. Additionally the maintenance crew's interface will contain a smartphone based augmented reality interface which provides information overlaid over the robot to aid in repairs. 
 
 The use of this system will reduce maintenance costs and downtime for robots. This will result in cost savings for fuel and , from efficient routing. Maintenance teams will be able to perform repairs faster. An additional objective is to create and improve analytics for the fleet of robots.  
+
+
+
+Assumptions about current (inefficient) company:
+- same day maintanence is not available 
+- routing not efficient. Manual route planning by experienced route planners. They use shortest path but necessarily the fastest path
+- sensor data does not provide a no later than date for when the machineary needs to be maintained by?
+- 
+
+Q's?
+- where are the maintenance workers? (standby at centralized location or from home?)
+- laws on continuous driving, number of hours, breaks, etc
+- 1 warehouse or multiple warehouses?
+- routing to warehouse (outdoor) or to robot (indoor)
+- will our software provide real time traffic data?
+- same day maintanence?
+
+
+
+
 
 > Identify and define project objectives, outputs and outcomes as well as a measurement criteria. 
 > -	Objectives: Define what the project is trying to achieve.
@@ -239,6 +262,10 @@ sponsor
 
 
 
+
+## References
+https://www.thebalancesmb.com/route-planning-2221322
+https://www.supplychaindive.com/news/4-types-of-autonomous-mobile-robots-and-their-warehouse-use-cases/529548/
 
 
 

@@ -213,13 +213,19 @@ Within our organization and collaborating organizations, we are using messaging 
 
 # Benefits
 ## Benefits to Canadians
+By having an Integrated Operation Center, the dispatcher can visualize the location of maintenance crew workers in relation to malfunctioned robots, allowing for route optimization. Improved maintenance routes will decrease fuel comsumption, so the amount of carbon released into the environment would also significantly decrease. 
 
--less carbon release (less gas, optimizing routes)
+With a 
+may indirectly result in reduced prices in the products. 
+The development of this new technology 
+
+
 -decreased price in products (indirect)
 -new technology
--
+
 
 ## Benefits to Sponsors and Users
+As a result of implementing the system, there will be increased safety for 
 users
 -increased safety
 -diagnose issues quickly

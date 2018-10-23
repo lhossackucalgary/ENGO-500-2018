@@ -73,17 +73,33 @@ Describe plans for the maintenance and/or further development of the project out
 # Project Issues and Risks
 ## Issue Identification
 > Specify any major policy, standards, data, technical, partnership and/or client engagement issues that need to be addressed in order for the project to be successful. 
+The issues that will affect the success and completion of our project have been identified as the following:
+
 1. We have very limited knowledge regarding machinary and their maintenance. 
-  To address this, we need to research this topic as well as contact  have general idea of ho
-2. We do not know what kind of sensor data is re
+2. We do not know what kind of sensor data is commonly collected from machinery.
+3. We do not know the safety standards currently followed in the end user's work environment that may influence how we should design the system.
+
+To address issues 1, 2, and 3, we need to research the machinery that is currently being used in environments such as warehouses and fulfillement centers. We will contact ATTAbotics which is a start-up company in Calgary that develops automated fulfillment systems. Doing this, we hope to gain a general understanding of the different types of machinery used in this field, the sensor data that is collected from the machinery, the frequency of scheduled maintenance, as well as the general procedures followed during maintenance.
 
 ## Feasibility and Risk 
 
--Technical Risk
+-Technical Risk "Exposure to loss arising from activities such as design and engineering, manufacturing, technological processes and test procedures."
+Technical Risks:
+1. A User Interface (UI) that is not intuitive and is difficult to use.
+2. A malfunctioning or incomplete AI assistance system.
+3. A innefficient or ineffective routing system.
+4. The innability to integrate the different technical portions of our system into one fluid application.
 
 -Safety Risk
+1. Lack of information security on servers.
+2. Finished application that hinders worker safety.
+
 -Deadlines
+1. The project is not finished before major deadlines such as the Capstone Fair.
+
 -Losing people/knowledge
+1. Member(s) of our capstone group withdraws from the course.
+2. The supervisor of our capstone project withdraws.
 
 Risk mitigation
 -prototyping

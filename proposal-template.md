@@ -73,10 +73,14 @@ Describe plans for the maintenance and/or further development of the project out
 # Project Issues and Risks
 ## Issue Identification
 > Specify any major policy, standards, data, technical, partnership and/or client engagement issues that need to be addressed in order for the project to be successful. 
+1. We have very limited knowledge regarding machinary and their maintenance. 
+  To address this, we need to research this topic as well as contact  have general idea of ho
+2. We do not know what kind of sensor data is re
 
 ## Feasibility and Risk 
 
 -Technical Risk
+
 -Safety Risk
 -Deadlines
 -Losing people/knowledge

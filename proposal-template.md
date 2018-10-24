@@ -87,6 +87,11 @@ Reporting on results |
 
 ## Sustainability
 
+There are several plans that our organization has decided on for future sustainability of this project. The first plan is to possibly have further development on the project outputs after conclusion of the Capstone project. This can be done through widening the scope of the project beyond what we have currently outlined above. As technology improves, it will be more feasible to add new hardware to the project with the addition of AR headsets. Currently, technology is limited, especially when using AR on mobile devices. However it could be a good idea to expand the project to use new AR headsets such as the Microsoft Hololens 2, which is predicted to be released in 2019. The Hololens 2 will improve upon criticisms of the first version by having an improved field of view, improved battery life, and will also be more comfortable to wear. Additionally, Microsoft is predicted to significantly reduce the cost of the Hololens 2 compared to the Hololens. With these predicted specifications and costs, it may be more technically feasible to purchase a Hololens 2 and expand this project. These AR headsets will be used by maintenance crews for hands-free maintenance as well as remote assistance from experts.
+
+Aside from adding an AR headset, the project could be expanded upon in several ways. For both maintenance and development, the organization can expand and improve upon the weak signal detection portion of the project. This can be done through adding AI and machine learning. In the current scope of the project, the IOC will be manually viewing sensor data, alerting, and routing maintenance crews to fix a robot when repairs are needed. Adding AI and machine learning in the future will allow for pattern recognition in sensor data. With the system being able to recognize patterns in this data it will be able to make faster decisions on repairs, such as sensing that repairs are needed on a robot before a human can. Finally, further development on this project in the future can also be done by releasing the project as open source on GitHub. By releasing it on GitHub, the GitHub community will have access to download the project. Any developer that wishes to do so can then maintain the final results of the project and develop new and improved features. 
+
+--> ADD REFERENCE IN THIS SECTION FOR HOLOLENS INFORMATION
 
 > Describe plans for maintenance and/or further development of the project outputs.  Demonstrate that the organization sustaining the project results has a structure in place to do so.  
 Describe plans for the maintenance and/or further development of the project outputs for the immediate years following the GeoConnections’ funded project.  Identify as specifically as possible the organization and sector or division that will be responsible for maintaining the results.  
@@ -266,7 +271,7 @@ sponsor
 ## References
 https://www.thebalancesmb.com/route-planning-2221322
 https://www.supplychaindive.com/news/4-types-of-autonomous-mobile-robots-and-their-warehouse-use-cases/529548/
-
+https://www.theverge.com/2018/6/13/17458168/microsoft-hololens-2-details-rumors
 
 
 

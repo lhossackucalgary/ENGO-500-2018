@@ -184,13 +184,12 @@ WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
 1.2 | Low fidelity prototyping | 11 | Paper Prototypes | 2018-11-05 | 2018-11-16
 1.2.1 | Storyboarding | 3 | Powerpoint and paper | 2018-11-13 | 2018-11-16
 1.2.2 | User stories | 3 | Powerpoint and paper | 2018-11-13 | 2018-11-16
-**2** | **Minimal Viable Product** | **35** |**A working project** |  **2018-11-16** | **2018-12-21**
-2.1 | High fidelity prototyping | 14 | Working UI with functionality | 2018-11-16 | 2018-11-30
-2.1.1 | Vertical prototyping | 7 | UI with working backend | 2018-11-21 | 2018-11-30
-2.2 | Learn tools and framework | 14 | Document on GitHub | 2018-11-27 | 2018-12-21
-**3** | **Iteration** | **105** |**Final project deliverable** |  **2018-12-21** | **2018-04-05**
-3.1 | Continuous testing and development | 105 | Final results of project | 2018-12-21 | 2018-04-05
-3.1.1 | Agile sprint | TBD | Completed work over the course of the sprint | 2018-12-21 | Every TBD days
+**2** | **Minimal Viable Product** | **55** |**A working project** |  **2018-11-16** | **2019-01-10**
+2.1 | Learn tools and framework | 21 | Document on GitHub | 2018-11-16 | 2018-12-07
+2.2 | High fidelity prototyping | 34 | Working UI with functionality | 2018-12-07 | 2019-01-10
+**3** | **Iteration** | **85** |**Final project deliverable** |  **2019-01-10** | **2019-04-05**
+3.1 | Continuous testing and development | 85 | Final results of project | 2019-01-10 | 2019-04-05
+3.1.1 | Agile sprint | Periodic | Completed work over the course of the sprint | 2019-01-10 | Variable dates
 
 > Include a thorough project implementation plan, and clearly indicate the following elements:
 

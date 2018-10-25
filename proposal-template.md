@@ -86,20 +86,23 @@ To address issues 1, 2, and 3, we need to research the machinery that is current
 -Technical Risk "Exposure to loss arising from activities such as design and engineering, manufacturing, technological processes and test procedures."
 Technical Risks:
 1. A User Interface (UI) that is not intuitive and is difficult to use.
-2. A malfunctioning or incomplete AI assistance system.
+2. A malfunctioning and/or unreliable AR assistance system due to the AR tech being very new and still in a developmental stage.
 3. A innefficient or ineffective routing system.
 4. The innability to integrate the different technical portions of our system into one fluid application.
+5. 
 
 -Safety Risk
 1. Lack of information security on servers.
 2. Finished application that hinders worker safety.
+
+
 
 -Deadlines
 1. The project is not finished before major deadlines such as the Capstone Fair.
 
 -Losing people/knowledge
 1. Member(s) of our capstone group withdraws from the course.
-2. The supervisor of our capstone project withdraws.
+2. The supervisor of our capstone withdraws from the project.
 
 Risk mitigation
 -prototyping
@@ -115,8 +118,15 @@ commitment risks, organization risks, contracting risks, technical risks, financ
 
 No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation strategies for dealing with each risk 
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | | | |
-2 | | | |
+1 |A User Interface (UI) that is not intuitive and is difficult to use. |H |M |We will be using techniques taught in SENG300 (Introduction to Software Engineering) and CPSC481 (Introduction to Human Computer Interaction) to design and test the user interface before building. These techniques includes using Task-Centered System Design (TCSD), low fidelity paper prototyping, and Wizard of Oz, and all of these use paper or a simple mock-up software to design the UI before actually writing the code. This way, we will be able to make changes to our design easily and have a solid visualization of our UI and the functionality of it before we code. | 
+2 |A malfunctioning and/or unreliable AR assistance system due to the AR tech being very new and still in a developmental stage. |H |H |The AR tech we are planning on using is ARcore and it is still very new and is known to be unreliable at detecting uneven surfaces due to its current lack of vertical surface detection. 
+3 |A innefficient or ineffective routing system. | | |
+4 |The innability to integrate the different technical portions of our system into one fluid application. | | |
+5 |Lack of information security on servers. | | |
+6 |Finished application that hinders worker safety. | | |
+7 |The project is not finished before major deadlines such as the Capstone Fair. | | |
+8 |Member(s) of our capstone group withdraws from the course. | | |
+9 |The supervisor of our capstone project withdraws. | | |
 
 > To demonstrate feasibility, make reference to past research, pilot projects, demonstrations, previous experience, and reports. Evaluate the mitigation statements against the Project Implementation Plan for availability of resources and flexibility to address potential risks.  If no mitigation is planned, indicate “none”.
 

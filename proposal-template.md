@@ -168,6 +168,11 @@ Name | Steve Liang
 **Key Skills** | Ideas, professional consultation, advising
 
 ## Project Management and Control
+The project manager role will be assigned on a rotating basis through the different phases of the project. The project will be managed using an agile project management approach to allow for greater flexibility and speed. Short delivery cycles will ensure issues are resolved early in the development process instead of waiting until the program is complete. The team is expected to have high frequency interaction and collaboration on the project, ensuring rapid identification and adjustment of issues. Issues will be created in Zenhub, an agile project management tool that visualizes the issues of the different stages of the project. Agile's repeatable process decreases turnaround time and reduces the risk and complexity and the project.  
+
+Version control of the programming code will be monitored using Github. To ensure quality of code, pull requests are required to be reviewed before mergering, allowing for immediate feedback from team members. The collaboration of Zenhub and Github will allow for an open and efficient software development environment for the project.
+
+
 > Describe mechanisms in place to ensure effective management and control of the proposed project.
 
 ## Project Implementation Plan

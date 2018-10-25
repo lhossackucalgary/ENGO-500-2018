@@ -48,8 +48,8 @@ The use of this system will reduce maintenance costs and downtime for robots. Th
 
 Item | Project Objectives | Project Outputs | Project Outcomes | Measurement Criteria
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | Route crews efficiently to robots needing repairs or maintenance | Route-planning assistance software with notifications to crew members' phones and itinerary planning |  |
-2 | Provide techs with information needed to diagnose issues and perform repairs faster & better | AR-enabled data overlay of historic and failure information for this robot, and schematics | |
+1 | Route crews to robots needing repairs or maintenance more optimally than appending each newly broken robot to the end of a crew's itinerary. | Route-planning assistance software with ability to push notifications and itinerary to crew members' phones |  | Measured by solving samples with randomly generated locations, requiring it to outperform the trivial algorithm on over 95% of test cases. Performance is gauged by total distance travelled.
+2 | Provide techs with information overlay to aid in diagnosing issues and performing repairs | AR-enabled data overlay of historic and failure information for this robot, and schematics |  |
 3 | Consolidate failure & usage data to help understand why the robots need repairs, what fails most, etc. | Web-based IOC for analysts and dispatchers |  |
 
 > For the measurement criteria provide a statement that describes what the project will accomplish and the performance measure. The project objectives whenever possible should be written to be specific, measurable, achievable, realistic and timely (SMART). The measurement criteria specifies a metric(s) that will measure success.  

@@ -179,19 +179,18 @@ Version control of the programming code will be monitored using Github. To ensur
 
 WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
-**1** | **Initiation Phase** | **21** |** ** |  **2018-10-26** | **2018-11-16**
-1.1 | Task and user identification | 10 | Meeting minutes document on GitHub | 2018-03-14 | 
-1.2 | Low fidelity prototyping | 11 |   | 20xx-xx-xx | 
-1.2.1 | Storyboarding | 3 | Powerpoint and paper | 20xx-xx-xx | 
-1.2.2 | User stories | 3 | Powerpoint and paper | 20xx-xx-xx | 
-**2** | **Minimal Viable Product** | **35** |**have something that can work** |  **2018-11-16** | **2018-12- 21**
-2.1 | High fidelity prototyping | 11 |  | 20xx-xx-xx | 
-2.1.1 | Vertical prototyping | 5 |  | 20xx-xx-xx | 
-2.2 | Learn tools and framework | 14 |  | 20xx-xx-xx | 
-**3** | **Iteration** | **105** |**** |  **2018-12-21** | ** 201-04-05**
-3.1 | continuous testing and development | 10 |  | 20xx-xx-xx | 
-3.2 | until we're done iterating | 5 |  | 20xx-xx-xx | 
-
+**1** | **Initiation Phase** | **21** |**Paper prototypes and mockups** |  **2018-10-26** | **2018-11-16**
+1.1 | Task and user identification | 10 | Document on GitHub | 2018-10-26 | 2018-11-05
+1.2 | Low fidelity prototyping | 11 | Paper Prototypes | 2018-11-05 | 2018-11-16
+1.2.1 | Storyboarding | 3 | Powerpoint and paper | 2018-11-13 | 2018-11-16
+1.2.2 | User stories | 3 | Powerpoint and paper | 2018-11-13 | 2018-11-16
+**2** | **Minimal Viable Product** | **35** |**A working project** |  **2018-11-16** | **2018-12-21**
+2.1 | High fidelity prototyping | 14 | Working UI with functionality | 2018-11-16 | 2018-11-30
+2.1.1 | Vertical prototyping | 7 | UI with working backend | 2018-11-21 | 2018-11-30
+2.2 | Learn tools and framework | 14 | Document on GitHub | 2018-11-27 | 2018-12-21
+**3** | **Iteration** | **105** |**Final project deliverable** |  **2018-12-21** | **2018-04-05**
+3.1 | Continuous testing and development | 105 | Final results of project | 2018-12-21 | 2018-04-05
+3.1.1 | Agile sprint | TBD | Completed work over the course of the sprint | 2018-12-21 | Every TBD days
 
 > Include a thorough project implementation plan, and clearly indicate the following elements:
 

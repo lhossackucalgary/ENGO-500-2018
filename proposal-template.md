@@ -41,26 +41,6 @@ This project provides interfaces for two user groups involved in the maintenance
 
 The use of this system will reduce maintenance costs and downtime for robots. This will result in cost savings for fuel and , from efficient routing. Maintenance teams will be able to perform repairs faster. An additional objective is to create and improve analytics for the fleet of robots.  
 
-
-
-Assumptions about current (inefficient) company:
-- same day maintanence is not available 
-- routing not efficient. Manual route planning by experienced route planners. They use shortest path but necessarily the fastest path
-- sensor data does not provide a no later than date for when the machineary needs to be maintained by?
-- 
-
-Q's?
-- where are the maintenance workers? (standby at centralized location or from home?)
-- laws on continuous driving, number of hours, breaks, etc
-- 1 warehouse or multiple warehouses?
-- routing to warehouse (outdoor) or to robot (indoor)
-- will our software provide real time traffic data?
-- same day maintanence?
-
-
-
-
-
 > Identify and define project objectives, outputs and outcomes as well as a measurement criteria. 
 > -	Objectives: Define what the project is trying to achieve.
 > -	Outputs: Deliverables and products produced by the project.
@@ -68,8 +48,9 @@ Q's?
 
 Item | Project Objectives | Project Outputs | Project Outcomes | Measurement Criteria
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | | | |
-2 | | | |
+1 | Route crews efficiently to robots needing repairs or maintenance | Route-planning assistance software with notifications to crew members' phones and itinerary planning |  |
+2 | Provide techs with information needed to diagnose issues and perform repairs faster & better | AR-enabled data overlay of historic and failure information for this robot, and schematics | |
+3 | Consolidate failure & usage data to help understand why the robots need repairs, what fails most, etc. | Web-based IOC for analysts and dispatchers |  |
 
 > For the measurement criteria provide a statement that describes what the project will accomplish and the performance measure. The project objectives whenever possible should be written to be specific, measurable, achievable, realistic and timely (SMART). The measurement criteria specifies a metric(s) that will measure success.  
 

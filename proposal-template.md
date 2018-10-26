@@ -231,9 +231,9 @@ WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
 
 There will be several costs related to running and completing this project:
 
-- Server costs. This project depends almost completely on having a server. In order for us to have a webpage containing the UIs for the IOC and the maintenance crews, we will require a server to host the webpages on. 
-- For the Capstone Fair, we are planning to purchase a robot model for testing and presentation purposes. Since we cannot feasibly bring in a large robot to show, we will be buying a smaller robot, such as BB-8, to show off during the Fair.
-- For the Capstone Fair, every organization is required to have a poster describing their project for individuals to view. Since it is essential, we must include this cost into the budget for our project.
+- Server costs. This project depends almost completely on having a server. In order for us to have a webpage containing the UIs for the IOC and the maintenance crews, a server is required to host the webpages on. 
+- Robot model. This model will be used during the final presentation and the Capstone Fair to test our project. Since we cannot feasibly bring in a large robot to maintain during these presentations, a smaller robot, such as BB-8, will be shown to advisors and judges.
+- Capstone poster. For the Capstone Fair, every organization is required to have a poster describing their project for judges and audiences to view. Since it is essential, we must include this cost into the budget for our project.
 
 > Briefly describe the budget required for this project. Itemize and justify the expenses.
 

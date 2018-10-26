@@ -116,35 +116,35 @@ Name | Lucas Hossack
 ------------ | -------------
 **Organization** | RouteScouts
 **Role** | Programming Lead
-**Responsibilities** | High level architecture design
-**Key Skills** | Programming, algorithms, debugging
+**Responsibilities** | High level architecture design. Set up the framework and ensure that all members meet the set programming style and standards. Help members to integrate their contributions.
+**Key Skills** | Programming, algorithms, debugging, communication
 
 Name | Deanna Wing Yan Ip
 ------------ | -------------
 **Organization** | RouteScouts
 **Role** | Project Manager
-**Responsibilities** | Manage deadlines, ensure deliverables are met
+**Responsibilities** | Manage deadlines and ensure deliverables are met. Follow up with group members when assigned work is behind schedule or deliverables are not up to standards. 
 **Key Skills** | Communication, leadership, management
 
 Name | Shuet-Ching Christina Lo
 ------------ | -------------
 **Organization** | RouteScouts
 **Role** | UX Designer
-**Responsibilities** | Ensure functionality of UI meets the end user's specifications
+**Responsibilities** | Create requirements for the UI design that are relevant to the users and their tasks. Ensure functionality of UI meets the end user's specifications and that the UI is intuitive.
 **Key Skills** | Programming, design, databases
 
 Name | Joan Ching Kwan Tam
 ------------ | -------------
 **Organization** | RouteScouts
 **Role** | QA Lead
-**Responsibilities** | Test changes to the code
-**Key Skills** | Writing tests, testing tests, running tests
+**Responsibilities** | Test that changes to the code do not change the core functionality of the project or break the project.
+**Key Skills** | Programming, Writing and running test scripts, debugging
 
 Name | Steve Liang
 ------------ | -------------
 **Organization** | SensorUp
 **Role** | Supervisor/Professional Advisor
-**Responsibilities** | Providing advice when needed
+**Responsibilities** | Providing advice when needed, ensuring that the RouteScouts team is on track for deliverables, and providing a server to host webpages
 **Key Skills** | Ideas, professional consultation, advising
 
 ## Project Management and Control

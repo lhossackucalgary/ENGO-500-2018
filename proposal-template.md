@@ -35,31 +35,6 @@ Three separate groups of users will be involved in this project. The first group
 
 # Project Performance Framework
 ## Objectives, outputs, outcomes and criteria
-Objectives: Monitor and collect status of internet-connected robots over time. Provide failure, critical and historic information of individual robots to maintenance crews during repairs. Provide relevant information to managers and maintenance crews.
-
-This project provides interfaces for two user groups involved in the maintenance and repair of geographically distributed robots which are monitored by internet-connected sensors. The first interface, the IOC allows a dispatcher to visualize the location, status and relevant statistics of the robots and maintenance crews through a web-based interface. Additionally, this interface will provide a means to push notifications and itinerary items to various maintenance crews. The second interface is accessible on a maintenance worker's cellular device. It provides the maintenance crew with information regarding which robot should be repaired next and historic data regarding this robot to aid in diagnosing issues and performing repairs. Additionally the maintenance crew's interface will contain a smartphone based augmented reality interface which provides information overlaid over the robot to aid in repairs. 
-
-The use of this system will reduce maintenance costs and downtime for robots. This will result in cost savings for fuel and , from efficient routing. Maintenance teams will be able to perform repairs faster. An additional objective is to create and improve analytics for the fleet of robots.  
-
-
-
-Assumptions about current (inefficient) company:
-- same day maintanence is not available 
-- routing not efficient. Manual route planning by experienced route planners. They use shortest path but necessarily the fastest path
-- sensor data does not provide a no later than date for when the machineary needs to be maintained by?
-- 
-
-Q's?
-- where are the maintenance workers? (standby at centralized location or from home?)
-- laws on continuous driving, number of hours, breaks, etc
-- 1 warehouse or multiple warehouses?
-- routing to warehouse (outdoor) or to robot (indoor)
-- will our software provide real time traffic data?
-- same day maintanence?
-
-
-
-
 
 > Identify and define project objectives, outputs and outcomes as well as a measurement criteria. 
 > -	Objectives: Define what the project is trying to achieve.
@@ -68,8 +43,12 @@ Q's?
 
 Item | Project Objectives | Project Outputs | Project Outcomes | Measurement Criteria
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | | | |
-2 | | | |
+1 | Suggest routes for crews to robots needing repairs or maintenance more optimal than appending each newly reported broken robot to the end of a crew's itinerary | Route-planning assistance software with ability to push notifications and itinerary to crew members' phones | Decrease in distance travelled for maintenance/ repair crews. ie. savings in fuel and travel time. | Measured by comparing solutions to sample problems consisting of 250 randomly generated locations. The solution must outperform the trivial algorithm on over 95% of 20 test cases. Performance is gauged by the sum of the length of all routes.
+2 | Provide technicians with information to aid in diagnosing issues and performing repairs. | Mobile AR interface capable of overlaying historic data and schematics overtop of a robot | Decreased requirements for technicians to memorize specifics of various models of robots. General knowledge is augmented with in situ information provided. | Ability to enable/ disable AR layers. Ability to switch between AR info layers provided. Ability to identify the robot in the camera's focus.
+3 | Provide technicians with route information for their currently planned routes | A mobile interface with routing and itinerary information (which robot to fix next) | Convenience for technicians who need to know their next task | should be able to see locations of robots needing maintenance on a map. should be able to see route information for current user. should be able to check-off schedule items as repaired, or needs parts, etc. (add information to file).
+4 | Consolidate failure & usage data to help develop understanding of assets | A data visualization component of the web-based IOC containing live-updated charts and figures | Improved business knowledge regarding product failure | Bar chart plotting replacement parts used in repairs. Line chart plotting number of robots requiring repairs. At least 4 other meaningful visualizations must be available.
+5 | Show current and historical spatial state of assets and crew | A map component of the web-based IOC capable of displaying historic and current locations of connected robots, crew, and routes | Improved monitoring and spatial knowledge | filters should be available based on status of robots. should be able to show the current location of maintenance crews. should be able to show current routes planned for crews. should be able to create/ edit routes for crews.
+
 
 > For the measurement criteria provide a statement that describes what the project will accomplish and the performance measure. The project objectives whenever possible should be written to be specific, measurable, achievable, realistic and timely (SMART). The measurement criteria specifies a metric(s) that will measure success.  
 

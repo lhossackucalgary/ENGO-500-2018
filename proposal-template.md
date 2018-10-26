@@ -83,37 +83,6 @@ To address issues 1, 2, and 3, we need to research the machinery that is current
 
 ## Feasibility and Risk 
 
--Technical Risk "Exposure to loss arising from activities such as design and engineering, manufacturing, technological processes and test procedures."
-Technical Risks:
-1. A User Interface (UI) that is not intuitive and is difficult to use.
-2. A malfunctioning and/or unreliable AR assistance system due to the AR tech being very new and still in a developmental stage.
-3. A innefficient or ineffective routing system.
-4. The innability to integrate the different technical portions of our system into one fluid application.
-5. 
-
--Safety Risk
-1. Lack of information security on servers.
-2. Finished application that hinders worker safety.
-
-
-
--Deadlines
-1. The project is not finished before major deadlines such as the Capstone Fair.
-
--Losing people/knowledge
-1. Member(s) of our capstone group withdraws from the course.
-2. The supervisor of our capstone withdraws from the project.
-
-Risk mitigation
--prototyping
--evaluate scope frequency
--insurance
-
-commitment risks, organization risks, contracting risks, technical risks, financial risks, human resources risks (such as the availability of qualified personnel or experienced personnel), project dependencies and/or policy issues related to data access (i.e. licensing, intellectual property, copyright, security, privacy etc). 
-
-
-
-
 > Identify and evaluate potential challenges or risks in completing and/or sustaining the project.  Please fill out the table and add any other applicable risks.  Examples of risks include: commitment risks, organization risks, contracting risks, technical risks, financial risks, human resources risks (such as the availability of qualified personnel or experienced personnel), project dependencies and/or policy issues related to data access (i.e. licensing, intellectual property, copyright, security, privacy etc). 
 
 No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation strategies for dealing with each risk 
@@ -126,11 +95,15 @@ No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation str
 6 |Finished application hinders worker safety. |H |L |We will put a disclaimer in the terms of use, as well as warnings before the application starts up. |
 7 |The project is not finished before major deadlines such as the Capstone Fair. |H |L |We will follow our project implementation plan that we wrote to ensure that we stay on schedule. We also be using Agile methodology so that we have a working product after each sprint. |
 8 |Member(s) of our capstone group withdraws from the course. |H |L |We will sign a group contract to present the consequences of dropping the course to each group member. We will also keep a strict policy regarding documentation on our code and our work to help with transitioning work between group members. This way, if a group member withdraws or is unavailable to work on a portion of the project, another group member will understand what the current state of that portion as well as what is yet to be done. |
-9 |The supervisor of our capstone project withdraws. |H | |
-10 |The project is over budget. | | | |
-11 |Member illness causes project to be behind schedule. |L |L | |
+9 |The project is over budget. |M |L |To reduce our budget, we will research and use open source libraries as an alternative to buying licences. We will also use the API provided by SensorUp. |
+10 |Member illness causes project to be behind schedule. |L |L |We will maintain clear communication between members so that we are all informed when a member is ill. If this occurs, we will discuss postponing internal deadlines and/or split the ill member's work amongst the rest of the group to finish so that we are back on schedule. Thoroughly documenting work will also help us when assigning partially completed work from one member to another. |
 
 > To demonstrate feasibility, make reference to past research, pilot projects, demonstrations, previous experience, and reports. Evaluate the mitigation statements against the Project Implementation Plan for availability of resources and flexibility to address potential risks.  If no mitigation is planned, indicate “none”.
+
+Risk mitigation
+-prototyping
+-evaluate scope frequency
+-insurance
 
 # Project Plan
 ## Project Team and Resources

@@ -123,7 +123,7 @@ Name | Deanna Wing Yan Ip
 ------------ | -------------
 **Organization** | RouteScouts
 **Role** | Project Manager
-**Responsibilities** | Manage deadlines and ensure deliverables are met. Follow up with group members when completed work is behind schedule or deliverables are not up to standards. 
+**Responsibilities** | Manage deadlines and ensure deliverables are met. Follow up with group members when assigned work is behind schedule or deliverables are not up to standards. 
 **Key Skills** | Communication, leadership, management
 
 Name | Shuet-Ching Christina Lo
@@ -137,7 +137,7 @@ Name | Joan Ching Kwan Tam
 ------------ | -------------
 **Organization** | RouteScouts
 **Role** | QA Lead
-**Responsibilities** | Test that changes to the code do not change the core functionality of the project, or do not break the project.
+**Responsibilities** | Test that changes to the code do not change the core functionality of the project or break the project.
 **Key Skills** | Programming, Writing and running test scripts, debugging
 
 Name | Steve Liang

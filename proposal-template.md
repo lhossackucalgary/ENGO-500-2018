@@ -1,5 +1,6 @@
 # Project Overview
 ## Project Name
+Robot Monitoring to Improve Maintenance Efficiency 
 ## Project Description
 
 Technology today is inevitably moving towards partial and total automation. Whether it'd be in factories or home delivery services, more robots designed for task automation are entering the market, each bringing their own complexities and design specifications. However robots have their limitations and they cannot fix themselves or each other.

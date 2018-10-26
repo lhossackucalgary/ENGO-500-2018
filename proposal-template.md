@@ -118,15 +118,17 @@ commitment risks, organization risks, contracting risks, technical risks, financ
 
 No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation strategies for dealing with each risk 
 ------------ | ------------- | ------------- | ------------- | -------------
-1 |A User Interface (UI) that is not intuitive and is difficult to use. |H |M |We will be using techniques taught in SENG300 (Introduction to Software Engineering) and CPSC481 (Introduction to Human Computer Interaction) to design and test the user interface before building. These techniques includes using Task-Centered System Design (TCSD), low fidelity paper prototyping, and Wizard of Oz, and all of these use paper or a simple mock-up software to design the UI before actually writing the code. This way, we will be able to make changes to our design easily and have a solid visualization of our UI and the functionality of it before we code. | 
-2 |A malfunctioning and/or unreliable AR assistance system due to the AR tech being very new and still in a developmental stage. |H |H |The AR tech we are planning on using is ARcore and it is still very new and is known to be unreliable at detecting uneven surfaces due to its current lack of vertical surface detection. 
-3 |A innefficient or ineffective routing system. | | |
-4 |The innability to integrate the different technical portions of our system into one fluid application. | | |
-5 |Lack of information security on servers. | | |
-6 |Finished application that hinders worker safety. | | |
-7 |The project is not finished before major deadlines such as the Capstone Fair. | | |
-8 |Member(s) of our capstone group withdraws from the course. | | |
-9 |The supervisor of our capstone project withdraws. | | |
+1 |A User Interface (UI) that is not intuitive and is difficult to use. |M |M |We will use techniques taught in SENG300 (Introduction to Software Engineering) and CPSC481 (Introduction to Human Computer Interaction) to design and test the user interface before building. These techniques includes using Task-Centered System Design (TCSD), low fidelity paper prototyping, and Wizard of Oz, and all of these use paper or a simple mock-up software to design the UI before actually writing the code. This way, we will be able to make changes to our design easily and have a solid visualization of our UI and the functionality of it before we code. | 
+2 |A malfunctioning and/or unreliable AR assistance system due to the AR tech being very new and still in a developmental stage. |H |H |We are using ARcore for our project, which is still very new and is known to be unreliable at detecting uneven surfaces due to its current lack of vertical surface detection. If this becomes an issue in our project, we will attach QR stickers to the robots to help mount images onto the robot in AR.|
+3 |A innefficient and/or ineffective routing system. |M |M |We will use algorithms taught in ENGO351 and ENGO451 such as Dijkstra, as well as conduct research on other TSP algorithms to decide on which one best suits our project. |
+4 |An application that does not integrate the different technical portions of our system fluidly. |M |M |Instead of building a separate mobile application for the AR portion of our project, we will look into developing a mobile web application so that both the desktop based IOC and the mobile based AR will be written with the same tool chain, and therefore will be easier to integrate together. |
+5 |Lack of information security on servers. |H |L |We will be using https so that server security will not be a risk. |
+6 |Finished application hinders worker safety. |H |L |We will put a disclaimer in the terms of use, as well as warnings before the application starts up. |
+7 |The project is not finished before major deadlines such as the Capstone Fair. |H |L |We will follow our project implementation plan that we wrote to ensure that we stay on schedule. We also be using Agile methodology so that we have a working product after each sprint. |
+8 |Member(s) of our capstone group withdraws from the course. |H |L |We will sign a group contract to present the consequences of dropping the course to each group member. We will also keep a strict policy regarding documentation on our code and our work to help with transitioning work between group members. This way, if a group member withdraws or is unavailable to work on a portion of the project, another group member will understand what the current state of that portion as well as what is yet to be done. |
+9 |The supervisor of our capstone project withdraws. |H | |
+10 |The project is over budget. | | | |
+11 |Member illness causes project to be behind schedule. |L |L | |
 
 > To demonstrate feasibility, make reference to past research, pilot projects, demonstrations, previous experience, and reports. Evaluate the mitigation statements against the Project Implementation Plan for availability of resources and flexibility to address potential risks.  If no mitigation is planned, indicate “none”.
 

@@ -226,30 +226,10 @@ Within our organization and collaborating organizations, we are using messaging 
 
 # Benefits
 ## Benefits to Canadians
-By having an Integrated Operation Center, the dispatcher can visualize the location of maintenance crew workers in relation to malfunctioned robots, allowing for route optimization. Improved maintenance routes will decrease fuel comsumption, so the amount of carbon released into the environment would also significantly decrease. 
-
-With a 
-may indirectly result in reduced prices in the products. 
-The development of this new technology 
-
-
--decreased price in products (indirect)
--new technology
-
+By having an IOC, the dispatcher can visualize the location of maintenance crew workers in relation to malfunctioning robots, allowing for route optimization. Improved maintenance routes will decrease the distance that crews travel and in turn will reduce fuel comsumption, so the amount of carbon released into the environment in Canada decreases. Implementing this project will also benefit Canadians by helping companies to provide their product or service more efficiently without downtime to Canadian customers.
 
 ## Benefits to Sponsors and Users
-As a result of implementing the system, there will be increased safety for 
-users
--increased safety
--diagnose issues quickly
--time saved
-
-sponsor
--have fun
--increase visbility of his API
-
-
-
+As a result of implementing the system, there will be several benefits for sponsors and users. The largest benefit for users will be increased efficiency and safety. For maintenance crews, the routing algorithm allows them to travel quickly to their destination, saving them time. The maintenance crews will also be able to diagnose and fix issues quickly and safely when using AR to overlay information onto the robots. The sponsors benefit by having increased visibility and applications due to this project. As we are sponsored by SensorUp, our project will increase visibility for the company and their products by having a different use case for their SensorThings API.
 
 ## References
 https://www.thebalancesmb.com/route-planning-2221322

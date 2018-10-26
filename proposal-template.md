@@ -80,32 +80,37 @@ Describe plans for the maintenance and/or further development of the project out
 # Project Issues and Risks
 ## Issue Identification
 > Specify any major policy, standards, data, technical, partnership and/or client engagement issues that need to be addressed in order for the project to be successful. 
+The issues that will affect the success and completion of our project have been identified as the following:
+
+1. We have very limited knowledge regarding machinary and their maintenance. 
+2. We do not know what kind of sensor data is commonly collected from machinery.
+3. We do not know the safety standards currently followed in the end user's work environment that may influence how we should design the system.
+
+To address issues 1, 2, and 3, we need to research the machinery that is currently being used in environments such as warehouses and fulfillement centers. We will contact ATTAbotics which is a start-up company in Calgary that develops automated fulfillment systems. Doing this, we hope to gain a general understanding of the different types of machinery used in this field, the sensor data that is collected from the machinery, the frequency of scheduled maintenance, as well as the general procedures followed during maintenance.
 
 ## Feasibility and Risk 
-
--Technical Risk
--Safety Risk
--Deadlines
--Losing people/knowledge
-
-Risk mitigation
--prototyping
--evaluate scope frequency
--insurance
-
-commitment risks, organization risks, contracting risks, technical risks, financial risks, human resources risks (such as the availability of qualified personnel or experienced personnel), project dependencies and/or policy issues related to data access (i.e. licensing, intellectual property, copyright, security, privacy etc). 
-
-
-
 
 > Identify and evaluate potential challenges or risks in completing and/or sustaining the project.  Please fill out the table and add any other applicable risks.  Examples of risks include: commitment risks, organization risks, contracting risks, technical risks, financial risks, human resources risks (such as the availability of qualified personnel or experienced personnel), project dependencies and/or policy issues related to data access (i.e. licensing, intellectual property, copyright, security, privacy etc). 
 
 No. | Risk Description | Severity (H/M/L) | Probability (H/M/L) | Mitigation strategies for dealing with each risk 
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | | | |
-2 | | | |
+1 |A User Interface (UI) that is not intuitive and is difficult to use. |M |M |We will use techniques taught in SENG300 (Introduction to Software Engineering) and CPSC481 (Introduction to Human Computer Interaction) to design and test the user interface before building. These techniques includes using Task-Centered System Design (TCSD), low fidelity paper prototyping, and Wizard of Oz, and all of these use paper or a simple mock-up software to design the UI before actually writing the code. This way, we will be able to make changes to our design easily and have a solid visualization of our UI and the functionality of it before we code. | 
+2 |A malfunctioning and/or unreliable AR assistance system due to the AR tech being very new and still in a developmental stage. |H |H |We are using ARcore for our project, which is still very new and is known to be unreliable at detecting uneven surfaces due to its current lack of vertical surface detection. If this becomes an issue in our project, we will attach QR stickers to the robots to help mount images onto the robot in AR.|
+3 |A innefficient and/or ineffective routing system. |M |M |We will use algorithms taught in ENGO351 and ENGO451 such as Dijkstra, as well as conduct research on other TSP algorithms to decide on which one best suits our project. |
+4 |An application that does not integrate the different technical portions of our system fluidly. |M |M |Instead of building a separate mobile application for the AR portion of our project, we will look into developing a mobile web application so that both the desktop based IOC and the mobile based AR will be written with the same tool chain, and therefore will be easier to integrate together. |
+5 |Lack of information security on servers. |H |L |We will be using https so that server security will not be a risk. |
+6 |Finished application hinders worker safety. |H |L |We will put a disclaimer in the terms of use, as well as warnings before the application starts up. |
+7 |The project is not finished before major deadlines such as the Capstone Fair. |H |L |We will follow our project implementation plan that we wrote to ensure that we stay on schedule. We also be using Agile methodology so that we have a working product after each sprint. |
+8 |Member(s) of our capstone group withdraws from the course. |H |L |We will sign a group contract to present the consequences of dropping the course to each group member. We will also keep a strict policy regarding documentation on our code and our work to help with transitioning work between group members. This way, if a group member withdraws or is unavailable to work on a portion of the project, another group member will understand what the current state of that portion as well as what is yet to be done. |
+9 |The project is over budget. |M |L |To reduce our budget, we will research and use open source libraries as an alternative to buying licences. We will also use the API provided by SensorUp. |
+10 |Member illness causes project to be behind schedule. |L |L |We will maintain clear communication between members so that we are all informed when a member is ill. If this occurs, we will discuss postponing internal deadlines and/or split the ill member's work amongst the rest of the group to finish so that we are back on schedule. Thoroughly documenting work will also help us when assigning partially completed work from one member to another. |
 
 > To demonstrate feasibility, make reference to past research, pilot projects, demonstrations, previous experience, and reports. Evaluate the mitigation statements against the Project Implementation Plan for availability of resources and flexibility to address potential risks.  If no mitigation is planned, indicate “none”.
+
+Risk mitigation
+-prototyping
+-evaluate scope frequency
+-insurance
 
 # Project Plan
 ## Project Team and Resources

@@ -86,7 +86,7 @@ Project Objective | Measurement Criteria
 ------------ | -------------
 **Consolidate failure & usage data** | **Method**
 Method used to measure | Completion of functional requirements
-Responsibility: who measures/analyses/reports| Deanna Ip
+Responsibility: who measures/analyzes/reports| Deanna Ip
 Frequency of measure | End of each sprint involving this deliverable
 Key targets | 6 meaningful visualizations of failure, usage and maintenance/repair data provided.
 Reporting on results | Objectives document on github updated

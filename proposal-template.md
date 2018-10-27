@@ -68,7 +68,7 @@ Project Objective | Measurement Criteria
 ------------ | -------------
 **Technician AR support interface** | **Method**
 Method used to measure | Completion of functional requirements
-Responsibility: who measures/analyses/reports| Joan Tam
+Responsibility: who measures/analyzes/reports| Joan Tam
 Frequency of measure | End of each sprint involving this deliverable
 Key targets | Enable/ Disable AR layers. Switch between AR layers. Identify robot in Camera's focus.
 Reporting on results | Objectives document on github updated

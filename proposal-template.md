@@ -95,7 +95,7 @@ Project Objective | Measurement Criteria
 ------------ | -------------
 **Show current and historical spatial state of assets and crew** | **Method**
 Method used to measure | Completion of functional requirements
-Responsibility: who measures/analyses/reports| Lucas Hossack
+Responsibility: who measures/analyzes/reports| Lucas Hossack
 Frequency of measure | End of each sprint involving this deliverable
 Key targets | filters available for status of robots. toggle displaying current location of maintenance crews. toggle displaying current routes planned for crews. Ability to create/ edit routes for crews.
 Reporting on results | Objectives document on github updated

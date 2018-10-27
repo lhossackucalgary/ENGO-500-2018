@@ -3,15 +3,7 @@
 Robot Monitoring to Improve Maintenance Efficiency 
 ## Project Description
 
-Technology today is inevitably moving towards partial and total automation. Whether it'd be in factories or home delivery services, more robots designed for task automation are entering the market, each bringing their own complexities and design specifications. However robots have their limitations and they cannot fix themselves or each other.
-
-It can become costly to hire specific technicians for every robot type, so by taining maintenance crews to learn how to maintain new robots as well as retain the knowledge of technical specifications of every current robot within a company is difficult and strenuous. 
-
-- Training maintenance crews to learn how to maintain new robots as well as retain the knowledge of technical specifications of every current robot within a company is difficult and strenuous. 
-- Expensive to hire specific technicians for every type of robot.
-- Warehouses can be the size of twenty eight football fields, therefore it is hard to track down the location of each malfunctioning robots, especially those that are mobile. 
-- In fast-paced environments, downtime of task automation robots immediately result in loss of revenue.
-This is why we propose to create a software that will reduce downtime and improve service technician efficiency through an Integrated Operation Center (IOC). This IOC will contain a dispatch system that finds the nearest qualified worker to service a malfunctioning robot and an intuitive Augmented Reality (AR) system to empower service crews to repair robots more efficiently and safely.
+In fast-paced environments, downtime of task automation robots is directly linked to loss of revenue. As such, it is in the best interests of profit-driven businesses to ensure that minimal time is spent on repairing robots. Creating a software through an Integrated Operation Center (IOC) can be an effective way to reduce downtime and improve service technician efficiency.  This IOC will display real time sensor data in visual charts and graphs for the IOC manager to directly monitor the health statuses of their assets. The geographical locations of the robots and the maintenance are also displayed for the dispatcher to optimize the route for the nearest technician to a robot requiring service. These maintenance crew are equipped with an intuitive Augmented Reality (AR) system to allow for a safer and more efficient repair procedure. The AR system, activated by the robot’s unique ID, identifies the model of the robot and displays various relevant information about it, including its sensor data, history, and the exact location of the issue. The implementation of the AR system that can diagnose the issues and display the technical specifications of the robot eliminates the need for highly trained technicians who can service the robots on site.
 
 > Provide a short narrative description of the project.  Identify/describe any technical and business problem that would be solved, the key benefits and how the project aligns with/supports the strategic direction/objectives of the proponent organization or members, its collaborators, and clients/users.
 

@@ -77,7 +77,7 @@ Project Objective | Measurement Criteria
 ------------ | -------------
 **Push route info to Technician's mobile device** | **Method**
 Method used to measure | Completion of functional requirements
-Responsibility: who measures/analyses/reports| Christina Lo
+Responsibility: who measures/analyzes/reports| Christina Lo
 Frequency of measure | End of each sprint involving this deliverable
 Key targets | Ability to view route for current user. Ability to check-off schedule items as repaired, or needs parts, etc.
 Reporting on results | Objectives document on github updated

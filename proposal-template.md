@@ -59,7 +59,7 @@ Project Objective | Measurement Criteria
 ------------ | -------------
 **Suggest routes for crews** | **Method**
 Method used to measure | Comparison of algorithm on random data sets 
-Responsibility: who measures/analyses/reports| Lucas Hossack
+Responsibility: who measures/analyzes/reports| Lucas Hossack
 Frequency of measure | At the end of each sprint involving this deliverable
 Key targets | Outperform a 'closest broken robot' algorithm  (return routes with less total distance travelled by multiple crew members) 
 Reporting on results | Objectives document on github updated

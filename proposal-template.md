@@ -45,12 +45,12 @@ The second user group is maintenance workers. These workers travel around the ge
 
 Item | Project Objectives | Project Outputs | Project Outcomes | Measurement Criteria
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | Suggest routes for crews to robots needing repairs or maintenance more optimal than appending each newly reported broken robot to the end of a crew's itinerary | Route-planning assistance software with ability to push notifications and itinerary to crew members' phones | Decrease in distance travelled for maintenance/ repair crews. ie. savings in fuel and travel time. | Measured by comparing solutions to sample problems consisting of 250 randomly generated locations. The solution must outperform the trivial algorithm on over 95% of 20 test cases. Performance is gauged by the sum of the length of all routes.
+1 | Suggest efficient routes for crews to robots needing repairs or maintenance | Route-planning assistance software with ability to push notifications and itinerary to crew members' phones | Decrease in distance travelled for maintenance/ repair crews. ie. savings in fuel and travel time. | Measured by comparing solutions to sample problems consisting of 250 randomly generated locations. The comparison is with an implementation of a 'trivial' algorithm: routing each crew member to the nearest broken robot. The solution must outperform the trivial algorithm on over 80% of 20 test cases, and not perform worse than the trivial algorithm on the other test cases. Performance is gauged by the sum of the length of all routes.
+``` @cktamucalgary 
 2 | Provide technicians with information to aid in diagnosing issues and performing repairs. | Mobile AR interface capable of overlaying historic data and schematics overtop of a robot | Decreased requirements for technicians to memorize specifics of various models of robots. General knowledge is augmented with in situ information provided. | Ability to enable/ disable AR layers. Ability to switch between AR info layers provided. Ability to identify the robot in the camera's focus.
-3 | Provide technicians with route information for their currently planned routes | A mobile interface with routing and itinerary information (which robot to fix next) | Convenience for technicians who need to know their next task | should be able to see locations of robots needing maintenance on a map. should be able to see route information for current user. should be able to check-off schedule items as repaired, or needs parts, etc. (add information to file).
-4 | Consolidate failure & usage data to help develop understanding of assets | A data visualization component of the web-based IOC containing live-updated charts and figures | Improved business knowledge regarding product failure | Bar chart plotting replacement parts used in repairs. Line chart plotting number of robots requiring repairs. At least 4 other meaningful visualizations must be available.
-5 | Show current and historical spatial state of assets and crew | A map component of the web-based IOC capable of displaying historic and current locations of connected robots, crew, and routes | Improved monitoring and spatial knowledge | filters should be available based on status of robots. should be able to show the current location of maintenance crews. should be able to show current routes planned for crews. should be able to create/ edit routes for crews.
-
+3 | Provide technicians with route information for their currently planned routes | A mobile interface with routing and itinerary information (which robot to fix next) | Convenience for technicians who need to know their next task | Should be able to see locations of robots needing maintenance on a map as well as route information for current user. Should also be able to check-off schedule items as repaired, or needs parts, etc. by adding information to file.
+4 | Consolidate failure & usage data to help develop understanding of assets | A data visualization component of the web-based IOC containing live-updated charts and figures | Improved business knowledge regarding product failure | Bar chart plotting replacement parts used in repairs. Line chart plotting number of robots requiring repairs. At least 4 other meaningful visualizations will be provided.
+5 | Show current and historical spatial state of assets and crew | A map component of the web-based IOC capable of displaying historic and current locations of connected robots, crew, and routes | Improved monitoring and spatial knowledge | Filters should be available based on status of robots. Should be able to show the current location of maintenance crews, current routes planned for crews, as well as be able to create/ edit routes for crews.
 
 > For the measurement criteria provide a statement that describes what the project will accomplish and the performance measure. The project objectives whenever possible should be written to be specific, measurable, achievable, realistic and timely (SMART). The measurement criteria specifies a metric(s) that will measure success.  
 
@@ -59,12 +59,48 @@ Item | Project Objectives | Project Outputs | Project Outcomes | Measurement Cri
 
 Project Objective | Measurement Criteria
 ------------ | -------------
-**Description of Measure** | **Method**
-Method used to measure |
-Responsibility: who measures/analyses/reports|
-Frequency of measure |
-Key targets |
-Reporting on results |
+**Suggest routes for crews** | **Method**
+Method used to measure | Comparison of algorithm on random data sets 
+Responsibility: who measures/analyzes/reports| Lucas Hossack
+Frequency of measure | At the end of each sprint involving this deliverable
+Key targets | Outperform a 'closest broken robot' algorithm  (return routes with less total distance travelled by multiple crew members) 
+Reporting on results | Objectives document on github updated
+
+Project Objective | Measurement Criteria
+------------ | -------------
+**Technician AR support interface** | **Method**
+Method used to measure | Completion of functional requirements
+Responsibility: who measures/analyzes/reports| Joan Tam
+Frequency of measure | End of each sprint involving this deliverable
+Key targets | Enable/ Disable AR layers. Switch between AR layers. Identify robot in Camera's focus.
+Reporting on results | Objectives document on github updated
+
+Project Objective | Measurement Criteria
+------------ | -------------
+**Push route info to Technician's mobile device** | **Method**
+Method used to measure | Completion of functional requirements
+Responsibility: who measures/analyzes/reports| Christina Lo
+Frequency of measure | End of each sprint involving this deliverable
+Key targets | Ability to view route for current user. Ability to check-off schedule items as repaired, or needs parts, etc.
+Reporting on results | Objectives document on github updated
+
+Project Objective | Measurement Criteria
+------------ | -------------
+**Consolidate failure & usage data** | **Method**
+Method used to measure | Completion of functional requirements
+Responsibility: who measures/analyzes/reports| Deanna Ip
+Frequency of measure | End of each sprint involving this deliverable
+Key targets | 6 meaningful visualizations of failure, usage and maintenance/repair data provided.
+Reporting on results | Objectives document on github updated
+
+Project Objective | Measurement Criteria
+------------ | -------------
+**Show current and historical spatial state of assets and crew** | **Method**
+Method used to measure | Completion of functional requirements
+Responsibility: who measures/analyzes/reports| Lucas Hossack
+Frequency of measure | End of each sprint involving this deliverable
+Key targets | filters available for status of robots. toggle displaying current location of maintenance crews. toggle displaying current routes planned for crews. Ability to create/ edit routes for crews.
+Reporting on results | Objectives document on github updated
 
 ## Sustainability
 
@@ -198,19 +234,6 @@ WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
 > •	Column 7 “Outputs” – indicates all the outputs to be delivered at the milestone. 
 > •	Column 8 “Start Date” – indicates the date at which the first activity begins.
 > •	Column 9 “Delivery Date” – indicates the date for delivery of the final deliverable of a particular milestone. 
-
-WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
-**1** | **Initiation Phase** | **14** |** ** |  **20xx-xx-xx** | ** **
-1.1 | Kick-off meeting, including preperation | 2 | Meeting minutes document on GitHub | 2014-03-14 | 
-1.2 | some tasks here | 5 |  | 20xx-xx-xx | 
-1.3 | some taks here | 5 |  | 20xx-xx-xx | 
-**2** | **Phase 2** | **15** |** ** |  **20xx-xx-xx** | ** **
-2.1 | some tasks here | 5 |  | 20xx-xx-xx | 
-2.2 | some tasks here | 5 |  | 20xx-xx-xx | 
-**3** | **Phase 3** | **20** |** ** |  **20xx-xx-xx** | ** **
-3.1 | some tasks here | 10 |  | 20xx-xx-xx | 
-3.2 | some tasks here | 5 |  | 20xx-xx-xx | 
 
 ## Budget Summary
 

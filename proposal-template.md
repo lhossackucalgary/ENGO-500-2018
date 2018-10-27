@@ -111,7 +111,7 @@ Describe plans for the maintenance and/or further development of the project out
 > Specify any major policy, standards, data, technical, partnership and/or client engagement issues that need to be addressed in order for the project to be successful. 
 The issues that will affect the success and completion of our project have been identified as the following:
 
-1. We have very limited knowledge regarding machinry and their maintenance. 
+1. We have very limited knowledge regarding machinery and their maintenance. 
 2. We do not know what kind of sensor data is commonly collected from machinery.
 3. We do not know the safety standards currently followed in the end user's work environment that may influence how we should design the system.
 

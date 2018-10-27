@@ -1,6 +1,6 @@
 # Project Overview
 ## Project Name
-Robot Monitoring to Improve Maintenance Efficiency 
+Robot Monitoring to Enhance Maintenance Efficiency 
 ## Project Description
 
 In fast-paced environments, downtime of task automation robots is directly linked to loss of revenue. As such, it is in the best interests of profit-driven businesses to ensure that minimal time is spent on repairing robots. An Integrated Operation Center (IOC) software can be an effective way to reduce downtime and improve service technician efficiency. The IOC will display real time sensor data in visual charts and graphs for the IOC dispatcher and analysts to directly monitor the health status of their assets. The geographical locations of the robots and the maintenance crews are also displayed for the dispatcher to adjust the routes of the technicians to a robot requiring service. The maintenance crew are equipped with an intuitive Augmented Reality (AR) system to allow for a more efficient and informed repair procedure. The AR system uniquely identifies the robot and displays relevant information about it, including its sensor data and sensor's history. The implementation of the AR system that can diagnose the issues and display the technical specifications of the robot decreases the need for highly trained technicians who can service the robots on site.
@@ -170,7 +170,7 @@ WBS | Task & work breakdown | Days effort | Outputs | Start Date | Delivery Date
 2.2 | High fidelity prototyping | 34 | Working UI with functionality | 2018-12-07 | 2019-01-10
 **3** | **Iteration** | **85** |**Final project deliverable** |  **2019-01-10** | **2019-04-05**
 3.1 | Continuous testing and development | 85 | Final results of project | 2019-01-10 | 2019-04-05
-3.1.1 | Agile sprint | Periodic | Completed work over the course of the sprint | 2019-01-10 | Variable dates
+3.1.1 | Agile sprint | 10 | Completed work over the course of the sprint | 2019-01-10 | Every 10 days
 
 ## Budget Summary
 

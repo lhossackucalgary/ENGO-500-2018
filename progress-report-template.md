@@ -11,7 +11,7 @@ Milestone 3 | | |
 
 # Milestone Overview
 ## Summary of Work Accomplished During this Period
-> Template Instructions: Describe the work accomplished in this phase. Include a brief summary of the work accomplished in comparison to the work plan, including URLs of prototype and operational results. 
+> Template Instructions: Describe the work accomplished in this phase. Include a brief summary of the work accomplished in comparison to the work plan. Provide relevant samples of the work progress, that is useful for evaluating the progress, such as URLs of prototype, operational results, pictures of field work, sample data collected, URL of code repository, etc.
 
 ## Lessons Learned
 > Template Instruction: Insert in this section, an explanation of significant problems encountered and their solutions.

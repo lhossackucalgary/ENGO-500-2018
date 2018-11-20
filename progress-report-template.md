@@ -7,7 +7,7 @@ Milestone | Components | Planned Delivery Date | Acutal Delivery Date
 Milestone 1 | | | 
 Milestone 2 | | | 
 Milestone 3 | | | 
- | | | 
+... | | | 
 
 # Milestone Overview
 ## Summary of Work Accomplished During this Period

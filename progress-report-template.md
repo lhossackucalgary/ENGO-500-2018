@@ -31,6 +31,9 @@ Next, we looked into using ARCore to build a mobile application instead, using A
 > Template Instruction: Insert in this section, an explanation of significant problems encountered and their solutions.
 
 ## Changes to the Work Plan
+
+Based upon the work we have completed up to this point, there will be no changes to the work plan for the next milestone. As a large majority of our group members have used Java and Android Studio before, we believe that developing a mobile application on Android Studio will not hinder our plans. We are confident that even with the problems we've encountered that we will be able to complete our next milestone on time.
+
 > Template Instruction: If applicable to the project situation, describe here any changes to the work plan for the next milestone.
 
 ## List of Attachments

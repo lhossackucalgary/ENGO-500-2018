@@ -38,6 +38,14 @@ Based upon the work we have completed up to this point, there will be no changes
 ## List of Attachments
 > Template Instruction: Insert the list of documents that are attached such as milestone components  that were listed in the milestone summary table.
 
+Milestone | Document | Link
+------------ | ------------- | -------------  
+1 | Augmented image testing | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/AugmentedImageVideo.mp4
+1 | AR Prototype/Storyboard | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/AR%20Prototype%20Storyboard.pdf
+1 | IOC Prototype | nolink
+1 | Paper prototypes | nolink
+
+
 ## References
 
 [1] https://www.infoq.com/news/2018/09/mozilla-webxr-spec

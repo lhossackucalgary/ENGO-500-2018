@@ -49,9 +49,9 @@ Milestone | Document | Link
 
 ## References
 
-[1] https://www.infoq.com/news/2018/09/mozilla-webxr-spec
-[2] https://developers.google.com/ar/discover/
-[3] https://developers.google.com/ar/develop/java/augmented-images/
+[1] Sergio. D. S, "Mozilla Pushes WebXR as New Open Web API for Augmented Reality," *infoq.com*, para. 1-2, Sep. 16, 2018. [Online]. Available: https://www.infoq.com/news/2018/09/mozilla-webxr-spec. [Accessed Nov. 26, 2018].
+[2] "ARCore Overview", *developers.google.com*, para. 1. [Online]. Available: https://developers.google.com/ar/discover/. [Accessed Nov. 26, 2018].
+[3] "Recognize and Augment Images", *developers.google.com*. [Online]. Available: https://developers.google.com/ar/develop/java/augmented-images/. [Accessed Nov. 26, 2018].
 [4] https://github.com/jeeliz/jeelizAR
 [5] https://www.tensorflow.org/lite/
 [6] https://github.com/google-ar/arcore-android-sdk/issues/418

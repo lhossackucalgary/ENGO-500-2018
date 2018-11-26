@@ -2,12 +2,11 @@
 ## Milestone Summary
 > Template Instruction: The planned delivery date is outlined in the propsosal whereas the actual delivery date is when the milestone components are completed. If the planned date falls in next reporting period, enter the proposed completion date.  “In-progress”, or “ongoing”, can be entered, as required. If the planned and actual delivery dates are different please explain why the dates have changed in section 2.1 or 2.3, as appropriate.  
 
-Milestone | Components | Planned Delivery Date | Acutal Delivery Date
+Milestone | Components | Planned Delivery Date | Actual Delivery Date
 ------------ | ------------- | ------------- | ------------- 
-Milestone 1 | | | 
-Milestone 2 | | | 
-Milestone 3 | | | 
-... | | | 
+Low/Medium Fidelity Prototypes completed | Paper prototypes, PowerPoints | 2018-11-16 |  2018-11-26
+Minimal Viable Product | Working interfaces and database | 2019-01-10 | N/A
+Final Result | Complete working project | 2019-04-05 | N/A
 
 # Milestone Overview
 ## Summary of Work Accomplished During this Period

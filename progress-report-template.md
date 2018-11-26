@@ -4,9 +4,9 @@
 
 Milestone | Components | Planned Delivery Date | Actual Delivery Date
 ------------ | ------------- | ------------- | ------------- 
-Low/Medium Fidelity Prototypes completed | Paper prototypes, PowerPoints | 2018-11-16 |  2018-11-26
-Minimal Viable Product | Working interfaces and database | 2019-01-10 | In-progress
-Final Result | Complete working project | 2019-04-05 | In-progress
+Low/Medium Fidelity Prototypes completed | Paper prototypes, IOC/Mobile app PowerPoint mockups, Mobile AR storyboard, Video of AR experimentation | 2018-11-16 |  2018-11-26
+Minimal Viable Product | Working interfaces and database (In-progress) | 2019-01-10 | In-progress
+Final Result | Complete working project (In-progress) | 2019-04-05 | In-progress
 
 # Milestone Overview
 ## Summary of Work Accomplished During this Period

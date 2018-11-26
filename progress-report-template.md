@@ -18,13 +18,13 @@ After completing the list of tasks, each member was required to submit a paper p
 
 Finally, we have begun researching different technologies to use for the AR portion of our project. AR applications, while not new, are beginning to gain popularity. Thus, many APIs and software development kits, or SDKs, are being released and updated for development of both web and mobile applications. One API we researched was WebXR, which is an open web API for AR that hopes to bring mixed reality to the web [1]. WebXR is developed by Mozilla and is expected to provide a foundation to develop AR experiences within browsers. This is done by enabling the integration of the real world with contextual overlays [1]. We have also looked into building a mobile AR application through the use of ARCore, which is a SDKs that is used to build AR experiences. ARCore uses several APIs to enable mobile devices to sense its environment through motion tracking, environmental understanding, and light estimation [2]. Within ARCore, developers can build AR apps that can respond to 2D images. This is called an augmented image, and is something that we have researched for our project. Tracking within ARCore tells the device where the images are physically located, once it has been detected by the camera [3]. 
 
-Also insert stuff about neural web libs @Lucas
+An additional option which we are investigating is the use of object recognition libraries. These utilize various underlying technologies, but we need an option which can perform well on a mobile device, consistently, and track the object sufficiently well for AR. JeelizAR [4] is an example of such a library in JavaScript for WebXR. For ARCore, we may be able to utilize TensorFlow [5]. While object and orientation recognition provides some benefits of robustness and not requiring high-contrast images to be attached to our robots, it is not yet supported natively in ARCore, though this was proposed earlier in 2018 [6].
 
 > Template Instructions: Describe the work accomplished in this phase. Include a brief summary of the work accomplished in comparison to the work plan. Provide relevant samples of the work progress, that is useful for evaluating the progress, such as URLs of prototype, operational results, pictures of field work, sample data collected, URL of code repository, etc.
 
 ## Lessons Learned
 
-With the research we have done on APIs and SDKs for AR applications, we have run into a number of issues. WebXR was the first API we researched, to use AR within a web browser. However, we ran into issues with.... @Lucas please fill in... LOL. 
+With the research we have done on APIs and SDKs for AR applications, we have run into a number of issues. WebXR was the first API we researched, to use AR within a web browser. There are some issues with implementation in WebXR however, such that it does not support augmented images, which makes it a higher risk to develop with than AR Core. We were unable to investigate object detection libraries further due to not having access to a web server with ssl - WebXR requires https.
 
 Next, we looked into using ARCore to build a mobile application instead, using Android Studio as the integrated development environment, or IDE. More research needs to be done into using ARCore and augmented images, but we are confident that we can use this for our project (please reword this sentence). One problem with using Android Studio to develop a mobile application is that the official language is Java, which no members of our group has used in several years. As a result, we must add re-learning Java into our schedule if we stick with the plan to develop a mobile application on Android Studio. Another issue with Android Studio is that some of the group member's laptops cannot efficiently run programs on it as it is a fairly resource heavy program. This would force group members to work on the application either on the laptops that can handle the load, or at home on their desktop, which is very inefficient. One solution that has been proposed for this issue is to ask the IT department at the university to install Android Studio in the Geomatics Engineering department's computer lab. This would allow us to work on it together as a group, allowing for easier communication and help when required.
 
@@ -32,7 +32,7 @@ Next, we looked into using ARCore to build a mobile application instead, using A
 
 ## Changes to the Work Plan
 
-Based upon the work we have completed up to this point, there will be no changes to the work plan for the next milestone. As a large majority of our group members have used Java and Android Studio before, we believe that developing a mobile application on Android Studio will not hinder our plans. We are confident that even with the problems we've encountered that we will be able to complete our next milestone on time.
+Based upon the work we have completed up to this point, there will be no changes to the work plan for the next milestone. As a large majority of our group members have used Java and Android Studio before, we believe that developing a mobile application on Android Studio will not hinder our plans. We are confident that we will be able to complete our next milestone on time.
 
 > Template Instruction: If applicable to the project situation, describe here any changes to the work plan for the next milestone.
 
@@ -44,3 +44,6 @@ Based upon the work we have completed up to this point, there will be no changes
 [1] https://www.infoq.com/news/2018/09/mozilla-webxr-spec
 [2] https://developers.google.com/ar/discover/
 [3] https://developers.google.com/ar/develop/java/augmented-images/
+[4] https://github.com/jeeliz/jeelizAR
+[5] https://www.tensorflow.org/lite/
+[6] https://github.com/google-ar/arcore-android-sdk/issues/418

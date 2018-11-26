@@ -5,8 +5,8 @@
 Milestone | Components | Planned Delivery Date | Actual Delivery Date
 ------------ | ------------- | ------------- | ------------- 
 Low/Medium Fidelity Prototypes completed | Paper prototypes, PowerPoints | 2018-11-16 |  2018-11-26
-Minimal Viable Product | Working interfaces and database | 2019-01-10 | N/A
-Final Result | Complete working project | 2019-04-05 | N/A
+Minimal Viable Product | Working interfaces and database | 2019-01-10 | In-progress
+Final Result | Complete working project | 2019-04-05 | In-progress
 
 # Milestone Overview
 ## Summary of Work Accomplished During this Period

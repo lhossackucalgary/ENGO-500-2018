@@ -40,10 +40,12 @@ Based upon the work we have completed up to this point, there will be no changes
 
 Milestone | Document | Link
 ------------ | ------------- | -------------  
-1 | Application tasks | nolink
-1 | Paper prototypes | nolink
-1 | IOC Prototype | nolink
-1 | AR Prototype/Storyboard | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/AR%20Prototype%20Storyboard.pdf
+1 | Application tasks | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/ApplicationTasks.md
+1 | Paper prototypes | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/Low-Fi-PaperPrototypes.pdf
+1 | IOC Prototype | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/RMEME%20Prototyping.pptx
+1 | IOC Prototype Video | nolink
+1 | AR Prototype | nolink
+1 | AR Storyboard | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/AR%20Prototype%20Storyboard.pdf
 1 | Augmented image testing | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/AugmentedImageVideo.mp4
 
 
@@ -52,6 +54,7 @@ Milestone | Document | Link
 [1] Sergio. D. S, "Mozilla Pushes WebXR as New Open Web API for Augmented Reality," *infoq.com*, para. 1-2, Sep. 16, 2018. [Online]. Available: https://www.infoq.com/news/2018/09/mozilla-webxr-spec. [Accessed Nov. 26, 2018].
 [2] "ARCore Overview", *developers.google.com*, para. 1. [Online]. Available: https://developers.google.com/ar/discover/. [Accessed Nov. 26, 2018].
 [3] "Recognize and Augment Images", *developers.google.com*. [Online]. Available: https://developers.google.com/ar/develop/java/augmented-images/. [Accessed Nov. 26, 2018].
-[4] https://github.com/jeeliz/jeelizAR
-[5] https://www.tensorflow.org/lite/
-[6] https://github.com/google-ar/arcore-android-sdk/issues/418
+[4] B. Xavier, "JeelizAR" [online]. Available: https://github.com/jeeliz/jeelizAR [Accessed: Nov 26, 2018].
+[5] TensorFlow, "TensorFlow" [online]. Available: https://www.tensorflow.org/lite/ [Accessed: Nov 26, 2018].
+[6] B. Nasser, "Feature request : 3D Object Detection" [online]. Available: https://github.com/google-ar/arcore-android-sdk/issues/418 [Accessed: Nov 26, 2018].
+

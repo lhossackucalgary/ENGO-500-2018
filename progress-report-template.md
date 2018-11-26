@@ -42,7 +42,8 @@ Milestone | Document | Link
 ------------ | ------------- | -------------  
 1 | Application tasks | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/ApplicationTasks.md
 1 | Paper prototypes | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/Low-Fi-PaperPrototypes.pdf
-1 | IOC Prototype | nolink
+1 | IOC Prototype | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/RMEME%20Prototyping.pptx
+1 | IOC Prototype Video | nolink
 1 | AR Prototype | nolink
 1 | AR Storyboard | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/AR%20Prototype%20Storyboard.pdf
 1 | Augmented image testing | https://github.com/lhossackucalgary/ENGO500-2018-group3/blob/master/AugmentedImageVideo.mp4
